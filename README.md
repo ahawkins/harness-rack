@@ -1,12 +1,12 @@
-# Harness::Varnish
+# Harness::Rack
 
-TODO: Write a gem description
+Log every request's performance with Harness
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'harness-varnish'
+    gem 'harness-rack'
 
 And then execute:
 
@@ -14,11 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install harness-varnish
-
-## Usage
-
-TODO: Write usage instructions here
+    $ gem install harness-rack
 
 ## Contributing
 

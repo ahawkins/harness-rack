@@ -1,5 +1,5 @@
 require 'bundler/setup'
-require 'harness/rack'
+require 'harness-rack'
 require 'minitest/unit'
 require 'minitest/autorun'
 
